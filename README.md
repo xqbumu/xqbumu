@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+### Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=github.com/xqbumu/xqbumu)
+
 <!--
 **xqbumu/xqbumu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
