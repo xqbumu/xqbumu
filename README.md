@@ -10,11 +10,16 @@
 
 ## Who am I
 
-**I'm Bumu** - I'm a backend developer and interested in development, technology, cartoon. 
+**🇨🇳 I'm 卜木(Bumu)** - I'm a backend developer and interested in development, technology, cartoon. 
 
 - 🔭 I work on random projects in my free time, a lot involving web, data processing and sql
 - 🌱 I’m currently learning YACC & BigData & ETL
-- 📫 I’m currently using Golang & PHP & Vue
+- 😄 I’m currently using Golang & PHP & Vue
+
+**📫 How to Reach me:**
+
+- [LinkedIn](https://www.linkedin.cn/injobs/in/xqbumu): xqbumu
+- [Email](mailto:xqbumu@163.com): xqbumu@163.com
 
 <!--
 **xqbumu/xqbumu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -52,6 +57,8 @@ Remark:
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=xqbumu&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xqbumu&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=xqbumu"></img>
+
 <!--
 <details>
   <summary>Github Repos ⚡</summary>
@@ -69,5 +76,5 @@ Remark:
 ## Links
 
 - [CnBlog](https://www.cnblogs.com/xqbumu/)
-- [LinkedIn](https://www.linkedin.cn/injobs/in/xqbumu)
 - [CodersRank](https://profile.codersrank.io/user/xqbumu/)
+- [Kaggle](https://www.kaggle.com/xqbumu)
