@@ -18,8 +18,8 @@
 
 **📫 How to Reach me:**
 
-- [LinkedIn](https://www.linkedin.cn/injobs/in/xqbumu): xqbumu
-- [Email](mailto:xqbumu@163.com): xqbumu@163.com
+- LinkedIn: [xqbumu](https://www.linkedin.cn/injobs/in/xqbumu)
+- Email: [xqbumu@163.com](mailto:xqbumu@163.com)
 
 <!--
 **xqbumu/xqbumu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
