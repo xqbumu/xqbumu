@@ -76,5 +76,6 @@ Remark:
 ## Links
 
 - [CnBlog](https://www.cnblogs.com/xqbumu/)
+- [Site](https://xqbumu.gitlab.io/)
 - [CodersRank](https://profile.codersrank.io/user/xqbumu/)
 - [Kaggle](https://www.kaggle.com/xqbumu)
