@@ -20,6 +20,11 @@
 
 - LinkedIn: [xqbumu](https://www.linkedin.cn/injobs/in/xqbumu)
 - Email: [xqbumu@163.com](mailto:xqbumu@163.com)
+- Segmentfault: [https://segmentfault.com/u/xqbumu](https://segmentfault.com/u/xqbumu)
+- CnBlog: [https://www.cnblogs.com/xqbumu](https://www.cnblogs.com/xqbumu)
+- Blog: [https://xqbumu.gitlab.io](https://xqbumu.gitlab.io)
+- CodersRank: [https://profile.codersrank.io/user/xqbumu](https://profile.codersrank.io/user/xqbumu)
+- Kaggle: [https://www.kaggle.com/xqbumu](https://www.kaggle.com/xqbumu)
 
 <!--
 **xqbumu/xqbumu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -72,10 +77,3 @@ Remark:
 
 <a href="#">![Top Langs](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=xqbumu&width=820)</a>
 -->
-
-## Links
-
-- [CnBlog](https://www.cnblogs.com/xqbumu/)
-- [Site](https://xqbumu.gitlab.io/)
-- [CodersRank](https://profile.codersrank.io/user/xqbumu/)
-- [Kaggle](https://www.kaggle.com/xqbumu)
