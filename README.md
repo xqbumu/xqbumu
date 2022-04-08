@@ -59,8 +59,8 @@ Remark:
  - ![04](https://s1.ax1x.com/2020/07/22/U74sMR.png) : Haven't used it for a long time.
 
 ## Github Stats ⚡
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=xqbumu&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xqbumu&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=xqbumu&theme=blueberry&count_private=true&hide_border=true&line_height=20)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xqbumu&layout=compact&theme=blueberry&count_private=true&hide_border=true)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=xqbumu"></img>
 
